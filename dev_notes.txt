@@ -1,0 +1,17 @@
+DEV-START = (04/08/2017)
+TODO:
+----Make the nav card fullscreen when the page is fully scrolled to the top. (completed)
+----Find a solution to getting the script to constantly iterate over the height of the webpage,
+        without destroying performance. (completed)
+----Make your website responsive.
+----Find a way to get the background-image to display using a url from local directory.(null)
+----Get the contents of the nav to change when it morphs into nav mode.
+----Add an area where you will display your past projects.
+----Customize scroll-bar so that it bears resemblance to the used on panda.tv OR twitch.tv. (completed)
+----Change the height and behaviour of the nav so that it doesn't extend all the way to the bottom of the screen
+        and only goes into nav-bar mode when the remaining height of the nav matches the height of the nav-bar.
+/////////////////////////////////////////////////////////////////////////////////////////////////////////
+NOTE:
+----The index of the item MUST be stated when trying declare an element as a variable.
+----
+    
